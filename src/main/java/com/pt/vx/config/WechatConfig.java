@@ -38,8 +38,8 @@ public class WechatConfig {
      */
     static {
         userList.add(getUser(
-                "Ondiep", //扫码关注你的测试号以后，测试平台会出现TA的微信号
-                "微信消息模板ID", //要给这个人发送的模板ID
+                "oogZu5kYuvfz1Kf08um_JBCbIF_8", //扫码关注你的测试号以后，测试平台会出现TA的微信号
+                "crJOBnw5mDso5t70HPzgmTGBilmw82O7ipomlF_0gGY", //要给这个人发送的模板ID
                 "pt", //咋称呼这个人
                 "广东省广州市白云区", //这个人的详细地址
                 "广州", //这个人在的城市
